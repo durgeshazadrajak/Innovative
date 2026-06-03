@@ -16,7 +16,7 @@
 
         </div>
 
-        <div class="slider-one_pattern" style="background-image: url(assets/images/main-slider/vector-1.png);"></div>
+        <div class="slider-one_pattern" style="background-image: url(assets/images/vector-1.png);"></div>
 
         <div class="auto-container">
 
@@ -40,7 +40,7 @@
               <div class="slider-one_button d-flex align-items-center justify-content-center flex-wrap">
               </div>
 
-              <div class="slider-one_arrow" style="background-image: url(assets/images/main-slider/vector-2.png);">
+              <div class="slider-one_arrow" style="background-image: url(assets/images/vector-2.png);">
               </div>
 
             </div>
@@ -55,7 +55,7 @@
         <div class="slider-one_image-layer"
           style="background-image: url(assets/images/innovative-surgiwear-slider-1.webp)"></div>
         <div class="slider-one_pattern" style="
-                  background-image: url(assets/images/main-slider/vector-1.png);
+                  background-image: url(assets/images/vector-1.png);
                 "></div>
         <div class="auto-container">
           <!-- Content Column -->
@@ -76,7 +76,7 @@
 
               </div>
               <div class="slider-one_arrow" style="
-                        background-image: url(assets/images/main-slider/vector-2.png);
+                        background-image: url(assets/images/vector-2.png);
                       "></div>
             </div>
           </div>
@@ -88,7 +88,7 @@
         <div class="slider-one_image-layer"
           style="background-image: url(assets/images/innovative-surgiwear-slider-2.webp)"></div>
         <div class="slider-one_pattern" style="
-                  background-image: url(assets/images/main-slider/vector-1.png);
+                  background-image: url(assets/images/vector-1.png);
                 "></div>
         <div class="auto-container">
           <!-- Content Column -->
@@ -109,7 +109,7 @@
 
               </div>
               <div class="slider-one_arrow" style="
-                        background-image: url(assets/images/main-slider/vector-2.png);
+                        background-image: url(assets/images/vector-2.png);
                       "></div>
             </div>
           </div>
@@ -121,7 +121,7 @@
         <div class="slider-one_image-layer"
           style="background-image: url(assets/images/innovative-surgiwear-slider-3.webp)"></div>
         <div class="slider-one_pattern" style="
-                  background-image: url(assets/images/main-slider/vector-1.png);
+                  background-image: url(assets/images/vector-1.png);
                 "></div>
         <div class="auto-container">
           <!-- Content Column -->
@@ -142,7 +142,7 @@
 
               </div>
               <div class="slider-one_arrow" style="
-                        background-image: url(assets/images/main-slider/vector-2.png);
+                        background-image: url(assets/images/vector-2.png);
                       "></div>
             </div>
           </div>
@@ -167,7 +167,7 @@
       <div class="slider-two_authors">
         <ul>
           <li>
-            <img src="assets/images/main-slider/review.png" alt="" />
+            <img src="assets/images/review.png" alt="" />
           </li>
 
 
@@ -456,21 +456,7 @@
                   </div>
                 </div>
               </div>
-              <!-- Image -->
-              <div class="service-one_image six">
-                <img src="assets/images/resource/service-9.jpg" alt="" />
-                <div class="service-one_content">
-
-                  <h3 class="service-one_sub-title">
-                    Structural Engineering
-                  </h3>
-                  <div class="service-one_text">
-                    Our solutions are designed to meet the needs of modern
-                    enterprises, ensuring they thrive in today’s
-                    competitive online landscape.
-                  </div>
-                </div>
-              </div>
+              
             </div>
           </div>
         </div>
@@ -875,7 +861,7 @@
         </div>
         <ul class="testimonial-one__authors">
           <li>
-            <img src="assets/images/main-slider/review.png" alt="" />
+            <img src="assets/images/review.png" alt="" />
           </li>
 
 

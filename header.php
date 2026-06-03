@@ -54,7 +54,7 @@
     <meta name="twitter:creator" content="@innovativesurgiwear">
     <meta name="twitter:image" content="assets/images/web-share.webp">
     <link rel="preload"
-        href="assets/images/main-slider/innovative-surgiwear-slider-1.webp" as="image">
+        href="assets/images/innovative-surgiwear-slider-1.webp" as="image">
 
 
 

@@ -6638,7 +6638,7 @@ ul.about-one_list li {
   bottom: 0px;
   width: 32px;
   height: 26px;
-  background: url(../images/icons/shape-6.png) no-repeat;
+  background: url(../images/icons/shape-6.webp) no-repeat;
 }
 
 .footer-three_copyright:after {
@@ -6648,7 +6648,7 @@ ul.about-one_list li {
   bottom: 0px;
   width: 35px;
   height: 24px;
-  background: url(../images/icons/shape-7.png) no-repeat;
+  background: url(../images/icons/shape-7.webp) no-repeat;
 }
 
 .footer-three_copyright {

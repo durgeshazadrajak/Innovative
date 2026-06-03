@@ -44,7 +44,7 @@
 </section>
 
 <!-- Footer Two -->
-<footer class="footer-three" style="background-image:url(assets/images/main-slider/innovative-surgiwear-slider-1.webp)">
+<footer class="footer-three" style="background-image:url(assets/images/innovative-surgiwear-slider-1.webp)">
     <div class="auto-container">
         <!-- Widgets Section -->
         <div class="widgets-section">

@@ -117,7 +117,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/red.png" alt="" class="w-100">
                                         </div>
 
@@ -162,25 +162,25 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/orange_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/pink_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/light_green_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Oyster_Pink.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Peach.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Science_Blue.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Pixie_Green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -212,7 +212,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -244,7 +244,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -276,7 +276,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Angel_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -308,10 +308,10 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Tea_Rose.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Angel_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -343,7 +343,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Coral_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -375,7 +375,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -407,7 +407,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -439,7 +439,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_with_blue_impervious.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -471,7 +471,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -503,7 +503,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -535,10 +535,10 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Red.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -570,7 +570,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Grey.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -602,7 +602,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Celestial_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -634,16 +634,16 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/blue_checks.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Celestial_Blue.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Cadet_Blue.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Maroon.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -675,28 +675,28 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_red_checks.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/red_checks.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/blue_checks.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Celestial_Blue.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/light_pink_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/pink_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/orange_print.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/light_green_print.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -728,7 +728,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/blue_checks.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -760,7 +760,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -792,7 +792,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Science_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -824,7 +824,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/blue_checks.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -856,7 +856,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Red.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -888,7 +888,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Science_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -920,7 +920,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Grey.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -952,7 +952,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Science_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -984,7 +984,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1016,7 +1016,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_with_blue_impervious.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1048,7 +1048,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/medical_green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1080,7 +1080,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_with_blue_impervious.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1112,7 +1112,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_with_blue_impervious.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1144,7 +1144,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Gable_Green.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1176,7 +1176,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/green_with_blue_impervious.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1219,7 +1219,7 @@
                                     </div>
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
 
@@ -1251,7 +1251,7 @@
                                     </div>
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Pastel_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1282,7 +1282,7 @@
                                     </div>
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Angel_Blue.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1314,7 +1314,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Angel_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1347,10 +1347,10 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Pastel_Blue.png" alt="" class="w-100">
                                         </div>
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
 
@@ -1383,7 +1383,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Silver_Tree.png" alt="" class="w-100">
                                         </div>
                                     </div>
@@ -1415,7 +1415,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
 
@@ -1448,7 +1448,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
 
@@ -1481,7 +1481,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Denim_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1514,7 +1514,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Denim_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1547,7 +1547,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Denim_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1605,7 +1605,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Science_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1638,7 +1638,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Green.png" alt="" class="w-100">
                                         </div>
 
@@ -1671,7 +1671,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/Navi_Blue.png" alt="" class="w-100">
                                         </div>
 
@@ -1704,7 +1704,7 @@
 
                                     <!-- Color Swatches -->
                                     <div class="color-swatches">
-                                        <div class="swatch swatch-orange" title="Orange Check">
+                                        <div class="swatch" >
                                             <img src="assets/images/products/colors/White.png" alt="" class="w-100">
                                         </div>
 
