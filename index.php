@@ -380,9 +380,10 @@
             <div class="service-one_images_outer">
               <!-- Image -->
               <div class="service-one_image active">
-                <img src="assets/images/resource/gloves.webp" alt="" />
+                <a href="gloves.php">
+                  <img src="assets/images/resource/gloves.webp" alt="" />
+                </a>
                 <div class="service-one_content">
-
                   <h3 class="service-one_sub-title">
                     Gloves
                   </h3>
@@ -394,7 +395,9 @@
               </div>
               <!-- Image -->
               <div class="service-one_image two">
-                <img src="assets/images/resource/baby-kit.webp" alt="" />
+                <a href="products.php#baby-kits">
+                  <img src="assets/images/resource/baby-kit.webp" alt="" />
+                </a>
                 <div class="service-one_content">
 
                   <h3 class="service-one_sub-title">
@@ -408,7 +411,9 @@
               </div>
               <!-- Image -->
               <div class="service-one_image three">
-                <img src="assets/images/reusable-products.webp" alt="" />
+                <a href="products.php#Reusable-Products">
+                  <img src="assets/images/reusable-products.webp" alt="" />
+                </a>
                 <div class="service-one_content">
 
                   <h3 class="service-one_sub-title">
@@ -422,7 +427,9 @@
               </div>
               <!-- Image -->
               <div class="service-one_image four">
-                <img src="assets/images/disposable-products.webp" alt="" />
+                <a href="products.php#Disposable-Products">
+                  <img src="assets/images/disposable-products.webp" alt="" />
+                </a>
                 <div class="service-one_content">
 
                   <h3 class="service-one_sub-title">
@@ -436,7 +443,8 @@
               </div>
               <!-- Image -->
               <div class="service-one_image five">
-                <img src="assets/images/resource/surgical-kits.webp" alt="" />
+                <a href="products.php#Surgical-Kits">
+                  <img src="assets/images/resource/surgical-kits.webp" alt="" /></a>
                 <div class="service-one_content">
 
                   <h3 class="service-one_sub-title">
@@ -538,7 +546,7 @@
 <section class="fluid-one pt-5 pb-5 bg-light">
   <div class="auto-container">
     <div class="row clearfix">
-      <!-- Left Box -->     
+      <!-- Left Box -->
       <div class="col-md-5">
         <a href="assets/images/icons/innovative-surgiwea-brochure.pdf" target="_blank" class="d-block">
 
@@ -1019,7 +1027,7 @@
 
     <div class="about-content text-center mx-auto">
 
-      <h2 >Innovative Surgiwear Pvt. Ltd.</h2>
+      <h2>Innovative Surgiwear Pvt. Ltd.</h2>
 
       <p>
         We manufacture a comprehensive range of hospital linens, surgical consumables, medical garments, baby care

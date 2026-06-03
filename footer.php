@@ -16,7 +16,6 @@
                             <img src="assets/images/resource/innovative-surgiwear-apple-store.png" alt="App Store"
                                 class="w-100">
                         </a>
-
                         <img src="assets/images/resource/play-qr.webp" alt="QR1" class="w-100">
                     </div>
 
@@ -73,10 +72,10 @@
                                 <h4 class="footer-three_widget-title">Our Products</h4>
                                 <ul class="footer-three_links">
                                     <li><a href="gloves.php">Gloves </a></li>
-                                    <li><a href="products.php">Baby Kit</a></li>
-                                    <li><a href="products.php">Reusable Products</a></li>
-                                    <li><a href="products.php">Disposable Products</a></li>
-                                    <li><a href="products.php">Surgical Kits & Packs</a></li>
+                                    <li><a href="products.php#baby-kit">Baby Kit</a></li>
+                                    <li><a href="products.php#Reusable-Products">Reusable Products</a></li>
+                                    <li><a href="products.php#Disposable-Products">Disposable Products</a></li>
+                                    <li><a href="products.php#Surgical-Kits">Surgical Kits & Packs</a></li>
                                 </ul>
                             </div>
                         </div>
