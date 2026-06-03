@@ -53,7 +53,7 @@
       <!-- Slide -->
       <div class="swiper-slide">
         <div class="slider-one_image-layer"
-          style="background-image: url(assets/images/main-slider/innovative-surgiwear-slider-1.webp)"></div>
+          style="background-image: url(assets/images/innovative-surgiwear-slider-1.webp)"></div>
         <div class="slider-one_pattern" style="
                   background-image: url(assets/images/main-slider/vector-1.png);
                 "></div>
@@ -86,7 +86,7 @@
       <!-- Slide -->
       <div class="swiper-slide">
         <div class="slider-one_image-layer"
-          style="background-image: url(assets/images/main-slider/innovative-surgiwear-slider-2.webp)"></div>
+          style="background-image: url(assets/images/innovative-surgiwear-slider-2.webp)"></div>
         <div class="slider-one_pattern" style="
                   background-image: url(assets/images/main-slider/vector-1.png);
                 "></div>
@@ -119,7 +119,7 @@
       <!-- Slide -->
       <div class="swiper-slide">
         <div class="slider-one_image-layer"
-          style="background-image: url(assets/images/main-slider/innovative-surgiwear-slider-3.webp)"></div>
+          style="background-image: url(assets/images/innovative-surgiwear-slider-3.webp)"></div>
         <div class="slider-one_pattern" style="
                   background-image: url(assets/images/main-slider/vector-1.png);
                 "></div>
